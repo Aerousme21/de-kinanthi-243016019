@@ -1,5 +1,4 @@
 ﻿import random
-
 random.seed(11)
 JAM = 365 * 24
 
